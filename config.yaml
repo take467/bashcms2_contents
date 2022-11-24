@@ -1,0 +1,7 @@
+links:
+  - text: 'top'
+    href: '/?page=top'
+  - text: '開発日誌(ブログ)'
+    href: '/?post'
+  - text: 'ICT 公式サイト'
+    href: 'https://ict-kanazawa.ac.jp/'
