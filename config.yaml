@@ -3,5 +3,10 @@ links:
     href: '/?page=top'
   - text: '開発日誌(ブログ)'
     href: '/?post'
-  - text: 'ICT 公式サイト'
-    href: 'https://ict-kanazawa.ac.jp/'
+  - text: '外部サイト'
+    href: './'
+    sublinks:
+      - text: 'ICT 公式サイト'
+        href: 'https://www.ict-kanazawa.ac.jp/'
+      - text: 'KIT 公式サイト'
+        href: 'https://www.kanazawa-it.ac.jp/'
